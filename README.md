@@ -1,2 +1,2 @@
 # piepieTriviaGame
-## Click here play [https://seeseexiong.github.io/piepieTriviaGame/]
+## Click here [PLAY](https://seeseexiong.github.io/piepieTriviaGame/)
